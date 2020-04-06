@@ -4,10 +4,6 @@
 
 ###### 服务开通，[开通地址](https://ai.aliyun.com/face?spm=a2c4e.11153940.0.0.62c849a0pyk6T6)
 
-![1](https://yqfile.alicdn.com/9ba4fc0e90fefd9dd79f9515ad8563cf857fcdcf.png)
-
-![1](https://yqfile.alicdn.com/13828bdb09f6a6878eeff0177b188288edf4de7a.png)
-
 ###### 参数获取及对应开发语言使用说明
 
 [阿里云常见参数获取位置](https://yq.aliyun.com/articles/693979)
