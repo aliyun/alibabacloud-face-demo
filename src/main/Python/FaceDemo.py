@@ -1,7 +1,7 @@
 from aliyunsdkcore.client import AcsClient
 from aliyunsdkcore.request import CommonRequest
 
-# DefaultProfile.getProfile的参数分别是地域，access_key_id, access_key_secret  https://yq.aliyun.com/articles/693979
+# access_key_id, access_key_secret  https://yq.aliyun.com/articles/693979
 client = AcsClient("${ak}", "${sk}", "cn-shanghai")
 
 # DetectFace API 人脸检测定位
