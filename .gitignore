@@ -1,3 +1,5 @@
+# Intellij
+*.iml
 .idea/
-face-demo.iml
+# python
 .venv/
